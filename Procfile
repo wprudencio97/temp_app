@@ -1,0 +1,1 @@
+web: gunicorn temp_app.wsgi
